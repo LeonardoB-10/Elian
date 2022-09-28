@@ -117,7 +117,9 @@ body > section,
   display: flex;
   justify-content: center;
   align-items: center;
-  
+  flex-wrap: wrap;
+
+
 }
 
 .sec-title h2 {
