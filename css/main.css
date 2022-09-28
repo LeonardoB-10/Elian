@@ -70,6 +70,14 @@ iframe {
     border: 0;
 }
 
+
+
+@media (max-width: 600px) {
+  .media-q, .color1 {
+    display: none;
+  }
+}
+
 a, a:focus, a:hover {
     text-decoration: none;
     outline: 0;
